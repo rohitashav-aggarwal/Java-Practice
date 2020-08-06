@@ -1,0 +1,11 @@
+Circularly Linked List: viewed as having a cyclic order, with well-defined neighboring
+relationships, but no fixed beginning or end. In order to support
+the responsiveness of an arbitrary number of concurrent processes, most operating
+systems allow processes to effectively share use of the CPUs, using some form of
+an algorithm known as round-robin scheduling.
+
+Round Robin Scheduling: In order to support
+the responsiveness of an arbitrary number of concurrent processes, most operating
+systems allow processes to effectively share use of the CPUs, using some form of
+an algorithm known as round-robin scheduling.
+

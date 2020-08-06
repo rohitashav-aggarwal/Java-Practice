@@ -39,8 +39,8 @@ public class CeasarCipher {
         CeasarCipher cipher = new CeasarCipher(2);
         System.out.println(cipher.encoder);
         System.out.println(cipher.decoder);
-        String message = "HELLO WORLD";
-        System.out.println("Message to encode: HELLO WORLD");
+        String message = "I LOVE YOU KAKU";
+        System.out.println("Message to encode: " + message);
         String encodeSecret = cipher.encrypt(message);
         System.out.println(encodeSecret);
         String decodeSecret = cipher.decrypt(encodeSecret);
