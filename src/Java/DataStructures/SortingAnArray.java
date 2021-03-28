@@ -1,6 +1,5 @@
-package Java.DataStructures;
+package DataStructures;
 
-import javax.xml.soap.Node;
 import java.util.Scanner;
 
 /**Insertion-sort algorithm

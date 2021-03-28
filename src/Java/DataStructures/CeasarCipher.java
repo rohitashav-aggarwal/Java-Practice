@@ -1,4 +1,4 @@
-package Java.DataStructures;
+package DataStructures;
 
 /**
  * Encrypt and decrypt a message using ceasar cipher */

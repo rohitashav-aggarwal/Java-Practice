@@ -1,4 +1,4 @@
-package Java.DataStructures;
+package DataStructures;
 
 /**PseudoRandom Number generation
  Input: seed value: 92

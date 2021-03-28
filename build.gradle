@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {}
+
+sourceSets.main.java.srcDirs += ['src/java', 'src/ToDoApp']
+
