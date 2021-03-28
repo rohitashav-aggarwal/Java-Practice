@@ -1,3 +1,5 @@
 # Java-Practice
 
-Source # 1: Data Structures and Algorithms in Java - Sixth Edition Unsolved Exercises.
+1)Data structures
+2)Algorithms
+3)Using gradle build tool effectively
